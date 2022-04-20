@@ -1,0 +1,93 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.footer {
+  background-color: #d1c4e9;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+  width: 100%;
+}
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #5e0fe6;
+  color: floralwhite;
+}
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #000000;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.quiz-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.quiz-item {
+  transform: scale(1);
+}
+
+.content-container {
+  height: 100%;
+}
+
+.card-body {
+  padding: none;
+  background-color: #fae7aa;
+}
+
+.card-text {
+  margin: 1.25rem;
+  align-items: center;
+}
+
+.load-icon {
+  text-align: center;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+textarea {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+#root {
+  height: 100%;
+}
+
+.app {
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
